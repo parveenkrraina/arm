@@ -7,7 +7,7 @@
             "metadata": {
                 "description": "Please add storage account name"
             },
-            "minLength":4,
+            "minLength":6,
             "maxLength":30
         }
     },
