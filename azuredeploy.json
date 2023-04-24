@@ -8,7 +8,7 @@
                 "description": "Please add storage account name"
             },
             "minLength":4,
-            "maxLength":24
+            "maxLength":30
         }
     },
     "functions": [],
